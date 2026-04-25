@@ -45,12 +45,4 @@
 | Граничный    | Ввод -50°C | ✅ Принято (если допустимо)|
 
 ## Ссылка на GitHub
-[https://github.com/ваш-логин/password-generator](https://github.com/ваш-логин/password-generator)
 
-## Источники
-- [Документация Python](https://docs.python.org/3/)
-- [Библиотека tkinter](https://docs.python.org/3/library/tkinter.html)
-- [GitHub Docs](https://docs.github.com/en)
-
-## Контакт
-Если у вас есть какие-либо вопросы или предложения, не стесняйтесь связаться со мной.
