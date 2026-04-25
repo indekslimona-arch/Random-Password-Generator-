@@ -45,4 +45,4 @@
 | Граничный    | Ввод -50°C | ✅ Принято (если допустимо)|
 
 ## Ссылка на GitHub
-
+https://github.com/indekslimona-arch/Random-Password-Generator-/tree/main/favorites
